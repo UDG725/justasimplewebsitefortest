@@ -1,0 +1,38 @@
+@font-face {
+
+    font-family: Subspace;
+    src: url(fonts/Subspace.otf);
+
+}
+
+body{ 
+
+    color: black;
+
+    background-image: url(images/Background.png);
+
+    background-attachment: fixed;
+
+    background-size: cover;
+    
+}
+
+h1 {
+    
+    color: blue;
+
+    font-family: Subspace;
+
+    font-size:500%;
+    
+}
+
+p {
+    
+    color: black;
+
+    font-family: Subspace;
+
+    font-size: 150%;
+
+}
